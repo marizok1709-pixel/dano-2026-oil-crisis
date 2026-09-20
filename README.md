@@ -1,4 +1,4 @@
-# DANO 2026 — Тбанк Hackathon: The Summer 2026 Oil Crisis
+# DANO Тбанк Hackathon 2026: The Summer 2026 Oil Crisis
 
 I took part in **DANO**, a data-analytics hackathon by **Т-Банк (T-Bank)**, where I got to work with a massive amount of real-world-scale data on the **2026 summer oil crisis** and investigate what it meant for banks, drivers, and the wider economy.
 
